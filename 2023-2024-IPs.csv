@@ -50,7 +50,6 @@ IpAddress,170.106.106.16,2023,Threat Actors Exploit Atlassian Confluence CVE-202
 IpAddress,43.130.1.222,2023,Threat Actors Exploit Atlassian Confluence CVE-2023-22515 for Initial Access to Networks,Exploit
 IpAddress,152.32.207.23,2023,Threat Actors Exploit Atlassian Confluence CVE-2023-22515 for Initial Access to Networks,Exploit
 IpAddress,199.19.110.14,2023,Threat Actors Exploit Atlassian Confluence CVE-2023-22515 for Initial Access to Networks,Exploit
-IpAddress,95.217.6.16,2023,Threat Actors Exploit Atlassian Confluence CVE-2023-22515 for Initial Access to Networks,Exploit
 IpAddress,192.69.90.31,2023,Threat Actors Exploit Atlassian Confluence CVE-2023-22515 for Initial Access to Networks,Exploit
 IpAddress,104.128.89.92,2023,Threat Actors Exploit Atlassian Confluence CVE-2023-22515 for Initial Access to Networks,Exploit
 IpAddress,23.105.208.154,2023,Threat Actors Exploit Atlassian Confluence CVE-2023-22515 for Initial Access to Networks,Exploit
@@ -1276,7 +1275,6 @@ IpAddress,85.93.218.204,2024,Massive Brute-Force Attacks Target VPNs Worldwide,M
 IpAddress,185.220.101.101,2024,Massive Brute-Force Attacks Target VPNs Worldwide,Malware
 IpAddress,38.62.216.25,2024,Massive Brute-Force Attacks Target VPNs Worldwide,Malware
 IpAddress,38.62.216.196,2024,Massive Brute-Force Attacks Target VPNs Worldwide,Malware
-IpAddress,80.67.172.162,2024,Massive Brute-Force Attacks Target VPNs Worldwide,Malware
 IpAddress,91.92.251.33,2024,Massive Brute-Force Attacks Target VPNs Worldwide,Malware
 IpAddress,94.156.8.93,2024,Massive Brute-Force Attacks Target VPNs Worldwide,Malware
 IpAddress,45.138.16.240,2024,Massive Brute-Force Attacks Target VPNs Worldwide,Malware
@@ -1830,7 +1828,6 @@ IpAddress,216.128.176.211,2024,"Unveiling PikaBot, A Dive into Its Malicious Ope
 IpAddress,198.44.187.12,2024,"Unveiling PikaBot, A Dive into Its Malicious Operations",Malware
 IpAddress,172.234.16.175,2024,"Unveiling PikaBot, A Dive into Its Malicious Operations",Malware
 IpAddress,213.142.147.218,2024,"Unveiling PikaBot, A Dive into Its Malicious Operations",Malware
-IpAddress,65.20.85.39,2024,"Unveiling PikaBot, A Dive into Its Malicious Operations",Malware
 IpAddress,65.20.69.208,2024,"Unveiling PikaBot, A Dive into Its Malicious Operations",Malware
 IpAddress,109.123.227.147,2024,"Unveiling PikaBot, A Dive into Its Malicious Operations",Malware
 IpAddress,172.232.190.249,2024,"Unveiling PikaBot, A Dive into Its Malicious Operations",Malware
@@ -2206,7 +2203,6 @@ IpAddress,117.2.82.149,2024,Chinese Hackers Target Asian Telecoms,Malware
 IpAddress,139.59.37.50,2024,Chinese Hackers Target Asian Telecoms,Malware
 IpAddress,206.189.136.180,2024,Chinese Hackers Target Asian Telecoms,Malware
 IpAddress,139.84.166.131,2024,Chinese Hackers Target Asian Telecoms,Malware
-IpAddress,65.20.70.110,2024,Chinese Hackers Target Asian Telecoms,Malware
 IpAddress,159.89.170.164,2024,Chinese Hackers Target Asian Telecoms,Malware
 IpAddress,65.60.14.246,2024,Chinese Hackers Target Asian Telecoms,Malware
 IpAddress,115.79.207.240,2024,Chinese Hackers Target Asian Telecoms,Malware
@@ -2401,13 +2397,9 @@ IpAddress,64.7.199.144,2024,SocGholish Malware Abuses BOINC for Stealthy Cyberat
 IpAddress,64.94.84.200,2024,SocGholish Malware Abuses BOINC for Stealthy Cyberattacks,Malware
 IpAddress,104.238.34.204,2024,SocGholish Malware Abuses BOINC for Stealthy Cyberattacks,Malware
 IpAddress,213.5.130.58,2024,Cybercriminals Capitalize on CrowdStrike Error,Malware
-IpAddress,198.185.159.144,2024,Cybercriminals Capitalize on CrowdStrike Error,Malware
 IpAddress,185.53.177.53,2024,Cybercriminals Capitalize on CrowdStrike Error,Malware
 IpAddress,185.199.222.21,2024,Cybercriminals Capitalize on CrowdStrike Error,Malware
-IpAddress,185.230.63.171,2024,Cybercriminals Capitalize on CrowdStrike Error,Malware
-IpAddress,15.197.148.33,2024,Cybercriminals Capitalize on CrowdStrike Error,Malware
 IpAddress,184.168.221.59,2024,Cybercriminals Capitalize on CrowdStrike Error,Malware
-IpAddress,3.33.130.190,2024,Cybercriminals Capitalize on CrowdStrike Error,Malware
 IpAddress,80.78.22.84,2024,Cybercriminals Capitalize on CrowdStrike Error,Malware
 IpAddress,95.164.16.231,2024,APT41  A New Chapter of Cyber Espionage Emerges from the DUST,Malware
 IpAddress,141.164.37.141,2024,Kimsuky APT Group Leverages Social Engineering to Target Global Entities,Malware
